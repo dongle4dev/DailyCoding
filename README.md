@@ -1,3 +1,3 @@
-﻿# LeetCode75_Prepare4TechnicalInterviews
+﻿# Daily coding
 challenge me !!!!!
 try hard ~~
