@@ -2,19 +2,7 @@
 using namespace std;
 
 #define debug(x) cout << (#x) << " is " << (x) << endl
-#define FTB(i, a, b) for (ll i = a, _b = b; i <= _b; i++)
-#define FT(i, a, b) for (ll i = a, _b = b; i < _b; i++)
-#define FGB(i, a, b) for (ll i = a, _b = b; i >= _b; i--)
-#define FG(i, a, b) for (ll i = a, _b = b; i > _b; i--)
 #define endl "\n"
-
-typedef long long ll;
-typedef unsigned long long ull;
-typedef double db;
-typedef long double ld;
-typedef pair<ll, ll> ii;
-typedef vector<ll> vi;
-typedef vector<ii> vii;
 
 vector<vector<string>> groupAnagrams(vector<string>& strs) {
     vector<vector<string>> ans;
